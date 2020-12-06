@@ -1,0 +1,80 @@
+item {
+	id: 1
+	name: 'Bobolink'
+}
+item {
+	id: 2
+	name: 'Gray_Catbird'
+}
+item {
+	id: 3
+	name: 'Yellow_billed_Cuckoo'
+}
+item {
+	id: 4
+	name: 'Acadian_Flycatcher'
+}
+item {
+	id: 5
+	name: 'Great_Crested_Flycatcher'
+}
+item {
+	id: 6
+	name: 'Northern_Fulmar'
+}
+item {
+	id: 7
+	name: 'Pigeon_Guillemot'
+}
+item {
+	id: 8
+	name: 'Green_Kingfisher'
+}
+item {
+	id: 9
+	name: 'Olive_sided_Flycatcher'
+}
+item {
+	id: 10
+	name: 'White_breasted_Kingfisher'
+}
+item {
+	id: 11
+	name: 'White_crowned_Sparrow'
+}
+item {
+	id: 12
+	name: 'Bank_Swallow'
+}
+item {
+	id: 13
+	name: 'Barn_Swallow'
+}
+item {
+	id: 14
+	name: 'Forsters_Tern'
+}
+item {
+	id: 15
+	name: 'White_eyed_Vireo'
+}
+item {
+	id: 16
+	name: 'Black_and_white_Warbler'
+}
+item {
+	id: 17
+	name: 'Cerulean_Warbler'
+}
+item {
+	id: 18
+	name: 'Northern_Waterthrush'
+}
+item {
+	id: 19
+	name: 'Cactus_Wren'
+}
+item {
+	id: 20
+	name: 'Marsh_Wren'
+}
