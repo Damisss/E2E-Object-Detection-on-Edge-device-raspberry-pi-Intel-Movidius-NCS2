@@ -1,5 +1,6 @@
 # E2E-Object-Detection-in-Edge-device-Intel-Movidius-NCS2.
-[![asciicast](result.gif)]
+[asciicast](result.gif)
+
 This project shows how to train custom object detection model using TensorFlow Object Detection API and model deployment in Intel-Movidius-NCS2.
 env-setup file contains the environment steps on unbutu machine and how to start training process, evaluation and exporting inference graph.
 
